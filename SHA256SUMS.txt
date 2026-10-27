@@ -1,0 +1,5 @@
+cfb274eff896809e6ea36e5c4220ff1edfdc857d5b9600d6bd89221f30d02f74  Yejian-PDF-1.1.0-win-x64.exe
+c52eb557ed163938ba976731db411008604e18c97345403331b70e10a1c6a5f6  Yejian-PDF-1.1.0-mac-universal.dmg
+10d692999601ec9f6cdc5a80b599e2022da61861ee2c65e3a4b67cb30e840c23  Yejian-PDF-1.1.0-introduction-zh-CN.mp4
+b507110275a65b6b1075769eb6bb556c2d238a0545dcce8ac3b6cd1abdc150ee  Yejian-PDF-1.1.0-introduction-zh-CN.srt
+0374f5c6c0c3c267ce8113c9a531a073216de4bab25db8920578df9e39a89a91  Yejian-PDF-1.1.0-product-kit.zip

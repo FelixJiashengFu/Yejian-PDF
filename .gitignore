@@ -1,0 +1,6 @@
+*.exe
+*.dmg
+*.mp4
+*.zip
+.DS_Store
+Thumbs.db
